@@ -3,7 +3,7 @@
 For this week, I 
 
 ### WireFrame 
-![](images/Citation-Wireframe.jpg)
+![](Images/Citation-Wireframe.jpg)
 
 ### Page Screenshot
-![](images/citationpage.png)
+![](Images/citationpage.png)
