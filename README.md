@@ -18,9 +18,16 @@ For week 1, I learnt how to create a static webpage using HTML and CSS. For this
 4. Section-3 (Content)
 5. Footer (copyright)
 
-<img src="Images/Citation-Wireframe.jpg" width="400">
+<img src="Images/Citation-Wireframe.jpg" width="600">
 
+
+---
 
 ### Page Screenshot
 
 <img src="Images/citationpage.png" width="700">
+
+---
+
+### Process
+
