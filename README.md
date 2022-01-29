@@ -37,5 +37,5 @@ For the font sizes, I used vw to keep my design consistent on all browsers and m
 
 For the section-2-overview making a 4-box-grid-system was challenging. I leanrt how to use **grid-template-columns** and **grid-template-rows** to adjust the grid template. I still need to improve my skills on grid system. I want to learn how to make customized grid with various cell sizes. <br>
 
-For the content part (background, UX design, Playtesting ...), I downloaded portolio I created on figma and uploaded to the website as images. This way, I could display more customized design and add graphs easily. <br>
+For the content part (background, UX design, Playtesting ...), I downloaded portfolio I created on figma and uploaded to the website as images. This way, I could display more customized design and add graphs easily. <br>
 
