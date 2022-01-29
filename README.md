@@ -1,1 +1,8 @@
-# Connections-Lab-Week-1-Portfolio-Page
+# Citation Portfolio Page 
+
+For this week, I 
+
+### WireFrame 
+
+### Page Screenshot
+![](images/citation.png)
