@@ -5,7 +5,7 @@
 **Deliverable**: CSS/HTML Webpage <br>
 
 
-For week 1, I learnt how to create a static webpage using HTML and CSS. For this week's assignment, I created a portfolio page for my most recent game prdouction project Citation. For the summer of 2021, I interned at Hall Pass Studios. I worked on a project Citation - an interactive game that supports NYU students to learn academic integrity concepts. For this project, I made a webpage portfolio based on the pdf version of portfolio I created on Figma. 
+For week 1, I learnt how to create a static webpage using HTML and CSS. For the assignment, I created a portfolio webpage for my most recent game prdouction project - Citation. Citation is an interactive game that supports NYU students to learn academic integrity concepts.
 
 [Access Project Here](https://github.com/Soojin-Lee0819/connectionsLab/blob/main/Week1/Application-Review.md)
 
@@ -31,13 +31,13 @@ For week 1, I learnt how to create a static webpage using HTML and CSS. For this
 
 ### Process
 
-I started with the header. Naming 
-For the font sizes, I made it responsive by 
+I started with the header. On the right, there is my logo, also a link to the "homepage". Although it is a single page website, I added navigation bar with the list of links to multiple pages. On hover, the logo reduces it's opacity and the link texts change color. This was added to give more feedback to the users. <br><br>
 
-To make it responsive across device, added responsive 
+For the font sizes, I used vw to keep my design consistent on all browsers and make it responsive to different devices. <br><br>
 
-Making a grid-system was challenging. 
+For the section-2-overview making a 4-box-grid-system was challenging. I leanrt how to use **grid-template-columns** and **grid-template-rows** to adjust the grid template. I still need to improve my skills on grid system. I want to learn how to make customized grid with various cell sizes. <br><br>
 
-For the content part (background, UX design, Playtesting ...), I downloaded portolio I created on figma and uploaded to the website as images. This way, I could make a more customized design and graphs without having to every single.
+For the content part (background, UX design, Playtesting ...), I downloaded portolio I created on figma and uploaded to the website as images. This way, I could display more customized design and add graphs easily. 
 
+For the header, I made the items responsive to mobile view. Instead of having. I made it 
 
