@@ -4,7 +4,7 @@ For this week, I
 
 ### WireFrame 
 
-<img src="Images/Citation-Wireframe.jpg" width="100" height="100">
+<img src="Images/Citation-Wireframe.jpg" width="400">
 
 
 ### Page Screenshot
