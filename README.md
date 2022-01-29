@@ -29,7 +29,7 @@ For week 1, I learnt how to create a static webpage using HTML and CSS. For the 
 
 ---
 
-### Process
+### Process & Insights
 
 I started with the header. On the right, there is my logo, also a link to the "homepage". Although it is a single page website, I added navigation bar with the list of links to multiple pages. On hover, the logo reduces it's opacity and the link texts change color. This was added to give more feedback to the users. <br>
 
