@@ -7,7 +7,7 @@
 
 For week 1, I learnt how to create a static webpage using HTML and CSS. For the assignment, I created a portfolio webpage for my most recent game prdouction project - Citation. Citation is an interactive game that supports NYU students to learn academic integrity concepts.
 
-[Access Project Here](https://github.com/Soojin-Lee0819/connectionsLab/blob/main/Week1/Application-Review.md)
+[Access Project Here](https://soojin-lee0819.github.io/Connections-Lab-Week-1-Portfolio-Page/)
 
 
 ### WireFrame 
